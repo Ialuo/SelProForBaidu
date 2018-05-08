@@ -25,5 +25,50 @@
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="lib" path="D:/seleniumtestNGlearning/Gobear/selenium-java-2.46.0.jar"/>
 	<classpathentry kind="lib" path="D:/seleniumtestNGlearning/Gobear/selenium-java-2.46.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/htmlunit-2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/jetty-io-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/jetty-util-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/reportng-1.1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/reportng-1.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/testng.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/websocket-api-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/websocket-client-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/websocket-common-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files (x86)/SmartGit/bin/github.com/zhiminliao/SelProForBaidu/libs/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

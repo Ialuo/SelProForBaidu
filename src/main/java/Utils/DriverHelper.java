@@ -34,6 +34,7 @@ public class DriverHelper {
 			System.setProperty("webdriver.chrome.driver",chromeDriver);
 			driver= new ChromeDriver();
 			//logger.info("Start WebDriver");
+			System.out.println();
 			driver.manage().window().maximize();				  
 		}
 		return driver;

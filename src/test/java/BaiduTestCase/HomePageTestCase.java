@@ -31,15 +31,17 @@ public class HomePageTestCase{
 	@BeforeSuite(alwaysRun = true)
 	public void beforeSuite() throws Exception{
 		homePage = PageFactory.initElements(driver, HomePage.class);
+		resultPage = PageFactory.initElements(driver, ResultPage.class);
+		wait = new WebDriverWait(driver, 3000);
 		
 	}
 	@Test(description = "should open baidu home page",priority = 1)
 	public void testHomePage() throws Exception{
 		homePage.openHomePage();
-		wait.until(ExpectedConditions.visibilityOf(homePage.baiduLogo)).equals(true);
+		wait.until(ExpectedConditions.visibilityOf(homePage.baiduLogo));
 		homePage.inputSearchBox("Selenium");
 		homePage.clickSubmitBtn();
-		Assert.assertEquals("true", resultPage.firstAdSection.isEnabled());
+		Assert.assertEquals(true, resultPage.firstAdSection.isDisplayed());
 		
 	}
 	

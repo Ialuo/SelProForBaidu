@@ -14,13 +14,13 @@ import org.openqa.selenium.support.FindBy;
 
 public class HomePage extends BasePage {
 
-	protected HomePage(WebDriver driver) throws Exception {
+	public HomePage(WebDriver driver) throws Exception {
 		super(driver);
 	}
 	
 	@FindBy(xpath = "//div[@id='lg']")
 	public WebElement baiduLogo;
-	@FindBy(xpath = "//div[@id='su']")
+	@FindBy(xpath = "//input[@id='su']")
 	public WebElement submitBtn;
 	@FindBy(xpath = "//input[@id='kw']")
 	public WebElement searchBox;

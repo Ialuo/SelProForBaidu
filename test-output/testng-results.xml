@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="0" ignored="0" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52" started-at="2018-05-08T08:28:49Z" finished-at="2018-05-08T08:28:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52" started-at="2018-05-08T08:28:49Z" finished-at="2018-05-08T08:28:49Z">
+      <class name="BaiduTestCase.HomePageTestCase">
+        <test-method status="FAIL" signature="beforeSuite()[pri:0, instance:BaiduTestCase.HomePageTestCase@75e887f9]" name="beforeSuite" is-config="true" duration-ms="15" started-at="2018-05-08T08:28:49Z" finished-at="2018-05-08T08:28:49Z">
+          <exception class="java.lang.RuntimeException">
+            <message>
+              <![CDATA[java.lang.InstantiationException: PageAction.HomePage]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.RuntimeException: java.lang.InstantiationException: PageAction.HomePage
+at org.openqa.selenium.support.PageFactory.instantiatePage(PageFactory.java:133)
+at org.openqa.selenium.support.PageFactory.initElements(PageFactory.java:63)
+at BaiduTestCase.HomePageTestCase.beforeSuite(HomePageTestCase.java:33)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:455)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:401)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: java.lang.InstantiationException: PageAction.HomePage
+at java.lang.Class.newInstance(Unknown Source)
+at org.openqa.selenium.support.PageFactory.instantiatePage(PageFactory.java:130)
+... 22 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.RuntimeException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="SKIP" signature="testHomePage()[pri:1, instance:BaiduTestCase.HomePageTestCase@75e887f9]" name="testHomePage" duration-ms="0" started-at="2018-05-08T08:28:49Z" description="should open baidu home page" finished-at="2018-05-08T08:28:49Z">
+          <exception class="java.lang.RuntimeException">
+            <message>
+              <![CDATA[java.lang.InstantiationException: PageAction.HomePage]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.RuntimeException: java.lang.InstantiationException: PageAction.HomePage
+at org.openqa.selenium.support.PageFactory.instantiatePage(PageFactory.java:133)
+at org.openqa.selenium.support.PageFactory.initElements(PageFactory.java:63)
+at BaiduTestCase.HomePageTestCase.beforeSuite(HomePageTestCase.java:33)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:455)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:401)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: java.lang.InstantiationException: PageAction.HomePage
+at java.lang.Class.newInstance(Unknown Source)
+at org.openqa.selenium.support.PageFactory.instantiatePage(PageFactory.java:130)
+... 22 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.RuntimeException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+      </class> <!-- BaiduTestCase.HomePageTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

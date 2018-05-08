@@ -18,7 +18,7 @@ public class DriverHelper {
 	
 	
 	
-	public synchronized static WebDriver get() throws IOException{
+	public synchronized static WebDriver get(){
 		//if driver = null get it from config
 		if(driver == null){
 			try{
@@ -33,7 +33,7 @@ public class DriverHelper {
 			}
 			System.setProperty("webdriver.chrome.driver",chromeDriver);
 			driver= new ChromeDriver();
-			logger.info("Start WebDriver");
+			//logger.info("Start WebDriver");
 			driver.manage().window().maximize();				  
 		}
 		return driver;

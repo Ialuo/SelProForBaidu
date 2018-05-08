@@ -12,6 +12,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
@@ -43,6 +44,10 @@ public class HomePageTestCase{
 		homePage.clickSubmitBtn();
 		Assert.assertEquals(true, resultPage.firstAdSection.isDisplayed());
 		
+	}
+	@AfterSuite(alwaysRun =  true)
+	public void afterSuite() throws Exception{
+		DriverHelper.stop();
 	}
 	
 	

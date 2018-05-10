@@ -1,0 +1,38 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: rTq5+aTV64L+Aq9gecfcSUAHOcaTY
+ GURX69SQpymh9w=
+SHA-256-Digest-Manifest: PIrj6XAYUnmJW0DPpjo+HhtAVoCszh5avJrbPsCW4eQ=
+Created-By: 1.7.0_55 (Oracle Corporation)
+
+Name: refactoring.jar
+SHA-256-Digest: Ikb7/2HOgE6V3JMXRenCXFtMPzOppX4A0b6mksMjHvo=
+
+Name: META-INF/maven/org.python.pydev/org.python.pydev.refactoring/pom
+ .properties
+SHA-256-Digest: 8ps7y1zoPQkv7FYtGo3n7f9pNrfedJ+ZCxpAPwkK3R4=
+
+Name: icons/class_obj.gif
+SHA-256-Digest: BD7s9v6WH5EpJF4R5JeZCXUxry09MOxa6qV14zTTQoA=
+
+Name: LICENSE.txt
+SHA-256-Digest: kKR//0aU3zBgl9SCeCpwoQ+GrOEHBzEb90XcPTX/6Do=
+
+Name: icons/logo.ufo
+SHA-256-Digest: dzV8kyjLgZSo7z3ASdLWVorxKazl/i4tevTO3WNhw4k=
+
+Name: icons/methpub_obj.gif
+SHA-256-Digest: nxSYH1qL40iBc2Dhxdy3wdCuwmw0CIDuCBtXygETmHo=
+
+Name: icons/attrpub_obj.gif
+SHA-256-Digest: lht5tyQ1I9AtGAkk3usqvYD+KJ1dO317bS9ucW4ACCk=
+
+Name: plugin.properties
+SHA-256-Digest: bmkZjWrGeRTodmtOcVtWjdOWfoJtHt6yAfy+NgwUVgA=
+
+Name: icons/logo.png
+SHA-256-Digest: z9LcB7wO70V8X3gDSeszvLbZj3ld7B9wgkH88uOW7KU=
+
+Name: META-INF/maven/org.python.pydev/org.python.pydev.refactoring/pom
+ .xml
+SHA-256-Digest: 9F/CaSoVlAkAB33jiDL7RNt/dczSVe6OL9vIfT0WaoE=
+

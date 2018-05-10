@@ -36,7 +36,7 @@ public class HomePageTestCase{
 		wait = new WebDriverWait(driver, 3000);
 		
 	}
-	@Test(description = "should open baidu home page",priority = 1)
+	@Test(description = "should open baidu home page",groups={"BaiduTestGroup"},priority = 1)
 	public void testHomePage() throws Exception{
 		homePage.openHomePage();
 		wait.until(ExpectedConditions.visibilityOf(homePage.baiduLogo));
